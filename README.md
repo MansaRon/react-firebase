@@ -1,1 +1,1 @@
-A simple CRUD React Application intergraated with firebase.
+A simple CRUD React Application intergrated with firebase.
